@@ -1,4 +1,7 @@
 # Vantagem de jogar em casa e perfil dos campeões no Brasileirão (2003-2025)
+**Em resumo:** a vantagem de jogar em casa encolheu ao longo de 23 anos,
+> não por causa da pandemia, e o que mais separa o campeão do resto do G6
+> é o desempenho como visitante.
 
 Análise exploratória de 23 temporadas do Campeonato Brasileiro de pontos
 corridos para responder: quanto vale jogar em casa, como isso mudou ao
