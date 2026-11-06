@@ -20,7 +20,7 @@ longo do tempo e o que os campeões têm em comum.
 
 ## Dados
 
-Fonte: [/kaggle/input/campeonato-brasileiro-de-futebol]. Arquivo utilizado: `campeonato-brasileiro-full.csv`.
+Fonte: [kagglehub.dataset_download("adaoduque/campeonato-brasileiro-de-futebol")]. Arquivo utilizado: `campeonato-brasileiro-full.csv`.
 
 ## Metodologia
 
