@@ -20,7 +20,9 @@ longo do tempo e o que os campeões têm em comum.
 
 ## Dados
 
-Fonte: [kagglehub.dataset_download("adaoduque/campeonato-brasileiro-de-futebol")]. Arquivo utilizado: `campeonato-brasileiro-full.csv`.
+Fonte: [Campeonato Brasileiro de Futebol (Kaggle)](https://www.kaggle.com/datasets/adaoduque/campeonato-brasileiro-de-futebol).
+Arquivo utilizado: `campeonato-brasileiro-full.csv`.
+Os dados não estão no repositório; baixe-os pelo link acima.
 
 ## Metodologia
 
@@ -47,4 +49,8 @@ estatísticas, e modelo preditivo de resultados.
 
 ## Como reproduzir
 
-pip install -r requirements.txt e rodar o notebook.
+1. Baixe o dataset pelo link da seção *Dados* e coloque o arquivo
+   `campeonato-brasileiro-full.csv` na mesma pasta do notebook.
+2. Instale as dependências: `pip install -r requirements.txt`
+3. Abra `brasileirao_analise.ipynb` (Jupyter ou Google Colab) e execute
+   todas as células.
